@@ -1,4 +1,4 @@
-package com.example.recipevault
+package com.droidcon.recipevault
 
 import io.flutter.embedding.android.FlutterActivity
 
